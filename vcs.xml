@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/scottyab/HeartBeatView.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/githubwing/cardiograph.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\suh\AndroidStudioProjects" />
